@@ -15,7 +15,6 @@ import React from "react";
 import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
 import "./App.css";
 import { ThemeProvider } from "@mui/material/styles";
-// mport { createTheme, ThemeProvider } from "@mui/material/styles";
 
 const theme = themeOptions;
 
