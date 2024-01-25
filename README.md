@@ -1,7 +1,5 @@
 # CVWO Assignment Frontend
 
-## Getting Started
-
 ### Running the app
 
 1. Open your terminal and navigate to the directory containing your cloned project.
